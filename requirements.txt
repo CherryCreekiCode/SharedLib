@@ -1,0 +1,5 @@
+easytello
+djitellopy
+matplotlib
+pandas
+numpy
